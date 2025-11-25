@@ -1,4 +1,4 @@
-## EXP NO:2
+.23265895## EXP NO:2
 <img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
 <img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
 <img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/dff2cbda-f10f-4d7f-9aab-9aee3ee219b9" />
@@ -13,10 +13,13 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
+## Calculation
+![WhatsApp Image 2025-11-25 at 9 39 13 PM](https://github.com/user-attachments/assets/cabd7cbe-a35d-48f3-bef8-8d9517e7a9e4)
 
 ## Graph
-
+<img width="961" height="497" alt="image" src="https://github.com/user-attachments/assets/10630fe2-a58d-4b63-b6ae-fe8ec8dd9d23" />
+<img width="1283" height="672" alt="image" src="https://github.com/user-attachments/assets/ed0e3ce7-a34a-4603-a078-08f063e871c2" />
+<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
 Practical frequency of Oscillation =
