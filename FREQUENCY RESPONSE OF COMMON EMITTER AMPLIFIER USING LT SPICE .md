@@ -23,8 +23,8 @@
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
-
-
+##Tabulation
+<img width="1080" height="908" alt="image" src="https://github.com/user-attachments/assets/70e024e4-8ec7-4471-846c-377d56b540ac" />
 ## Graph
 <img width="1280" height="1168" alt="image" src="https://github.com/user-attachments/assets/0a3e377a-f301-4512-8d25-4c69de92f993" />
 
